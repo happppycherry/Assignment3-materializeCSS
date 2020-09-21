@@ -1,0 +1,27 @@
+.table {
+  border-collapse: collapse;
+}
+.tr {
+  margin-bottom: 0px;
+}
+.td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.td {
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+#reset {
+  border-width: 1px solid black;
+  font-style: bold;
+}
+.player1Checked {
+  background-color: rgb(124, 252, 0);
+}
+.player2Checked {
+  background-color: rgb(250, 128, 114);
+}
