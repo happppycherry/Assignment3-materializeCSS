@@ -1,4 +1,4 @@
-import "./styles.css";
+
 
 //make table
 let table = document.createElement("div");
